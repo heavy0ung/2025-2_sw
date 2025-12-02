@@ -5,7 +5,7 @@ pneumonia reasoning
 This repository provides an implementation of an interpretable Chest X-ray Visual Question Answering (CXR-VQA) system using Group Relative Policy Optimization (GRPO) fine-tuning on top of the Qwen2.5-VL-3B model.
 Unlike conventional black-box VLMs, our approach encourages models to generate explicit, structured reasoning prior to answering Yes/No clinical queries, improving transparency and trustworthiness in medical AI.
 
-![fig1](./asset/method.png)
+![fig1](./asset/method.png){: width="50%" height="50%"}
 
 # Datasets
 
