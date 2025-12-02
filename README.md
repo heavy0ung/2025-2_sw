@@ -1,5 +1,5 @@
 # 2025-2_sw
-pneumonia
+pneumonia reasoning
 
 # Overview
 This repository provides an implementation of an interpretable Chest X-ray Visual Question Answering (CXR-VQA) system using Group Relative Policy Optimization (GRPO) fine-tuning on top of the Qwen2.5-VL-3B model.
